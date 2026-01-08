@@ -1,1 +1,1 @@
-# Rock_Paper_Scissors_Game
+This is my fourth coding project. I built a Rock-Paper-Scissors game where the user competes against the computer. The program validates user input, generates random computer choices, determines the winner using conditional logic, and tracks wins for both players. At the end, it displays the final win counts and declares the overall winner. Created on 1/8/26.
